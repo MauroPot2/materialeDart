@@ -11,7 +11,7 @@ Spunta gli esercizi che completi durante la settimana ⬇️
 
 - [x] 🔹 Sezione A — Variabili, tipi e stampa
 - [x] 🔹 Sezione B — Input da tastiera
-- [ ] 🔹 Sezione C — Condizioni
+- [x] 🔹 Sezione C — Condizioni
 - [ ] 🔹 Sezione D — Cicli
 - [ ] 🔹 Sezione E — Challenge / Extra
 
@@ -47,6 +47,7 @@ void main() {
   print("Circonferenza: ${2 * PI * raggio}");
 }
 ```
+
 SEZIONE B — Input da tastiera
 
 🧠 Scopo: imparare a leggere input e lavorare con stdin.
@@ -77,10 +78,10 @@ SEZIONE C — Condizioni (if, else, switch)
 🧠 Scopo: gestire scelte logiche e condizioni.
 
 - [x] Dato un voto (0-10), stampa:
-<6 → “Insufficiente”
-6-7 → “Sufficiente”
-8-9 → “Buono”
-10 → “Eccellente”
+      <6 → “Insufficiente”
+      6-7 → “Sufficiente”
+      8-9 → “Buono”
+      10 → “Eccellente”
 - [x] Chiedi tre numeri e stampa il maggiore
 - [x] Determina se un numero è positivo, negativo o zero
 - [x] Chiedi l’anno e stampa se è bisestile
@@ -101,10 +102,10 @@ SEZIONE D — Cicli (for, while, do-while)
 - [x] Stampa la tabellina del 7
 - [x] Calcola la somma dei primi 100 numeri
 - [x] Chiedi un numero n e calcola il fattoriale (n!)
-- [] Stampa la sequenza di Fibonacci fino a 10 termini
-- [] Chiedi 5 numeri e calcola la media
-- [] Continua a chiedere numeri finché l’utente inserisce 0; stampa somma totale
-- [] Stampa tutti i numeri divisibili per 3 da 1 a 100
+- [x] Stampa la sequenza di Fibonacci fino a 10 termini
+- [x] Chiedi 5 numeri e calcola la media
+- [x] Continua a chiedere numeri finché l’utente inserisce 0; stampa somma totale
+- [x] Stampa tutti i numeri divisibili per 3 da 1 a 100
 - [] Stampa una piramide di \* con un ciclo for
 
 💡 Esempio piramide:
@@ -140,7 +141,6 @@ dart format .
 
 📝 Scrivi sempre commenti in italiano per spiegare cosa fa il codice.
 💬 Unisci esercizi per creare mini programmi (es. “input + condizioni + cicli”).
-
 
 🎯 Obiettivo della settimana
 

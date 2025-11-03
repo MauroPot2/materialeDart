@@ -9,7 +9,6 @@ import 'dart:io';
 
 void main(){
   int i = 0;
-  int k = 0;
   int q = 0;
   double mvoto = 0;
 
