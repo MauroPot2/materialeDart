@@ -12,7 +12,7 @@ Spunta gli esercizi che completi durante la settimana ⬇️
 - [x] 🔹 Sezione A — Variabili, tipi e stampa
 - [x] 🔹 Sezione B — Input da tastiera
 - [x] 🔹 Sezione C — Condizioni
-- [ ] 🔹 Sezione D — Cicli
+- [x] 🔹 Sezione D — Cicli
 - [ ] 🔹 Sezione E — Challenge / Extra
 
 ---
@@ -106,7 +106,7 @@ SEZIONE D — Cicli (for, while, do-while)
 - [x] Chiedi 5 numeri e calcola la media
 - [x] Continua a chiedere numeri finché l’utente inserisce 0; stampa somma totale
 - [x] Stampa tutti i numeri divisibili per 3 da 1 a 100
-- [] Stampa una piramide di \* con un ciclo for
+- [x] Stampa una piramide di \* con un ciclo for
 
 💡 Esempio piramide:
 
@@ -120,7 +120,7 @@ SEZIONE E — Extra / Challenge
 
 🧠 Scopo: combinare tutto ciò che hai imparato.
 
-- [] Genera un numero casuale e chiedi di indovinarlo (import 'dart:math')
+- [x] Genera un numero casuale e chiedi di indovinarlo (import 'dart:math')
 - [] Calcola tempo = spazio / velocità
 - [] Simula un bancomat: PIN fisso, saldo, prelievo
 - [] Calcola il punteggio medio di una squadra
@@ -147,7 +147,5 @@ dart format .
 ✅ Entro domenica dovresti:
 
 Non dover più cercare “come si scrive un ciclo in Dart”
-
 Capire il flusso di esecuzione di qualsiasi snippet semplice
-
 Saper scrivere un programma console fluido e interattivo

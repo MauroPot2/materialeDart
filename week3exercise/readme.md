@@ -179,8 +179,4 @@ Completa le sezioni in ordine: ogni concetto si basa sul precedente.
 Crea sempre un piccolo main per testare ogni classe o estensione.
 La domenica riscrivi almeno un esercizio “a mente”, senza copiare: è il modo migliore per fissare i concetti.
 
-💬 Frase motivazionale della settimana
-
-“Le classi ti insegnano a costruire,
-ma i mixin e le interfacce ti insegnano a creare libertà.”
 — Mauro Leonardo Potestio

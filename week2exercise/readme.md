@@ -169,8 +169,5 @@ Fai tutti gli esercizi in sequenza, come una mini-palestra quotidiana.
 Dopo ogni sezione, scrivi una funzione di riepilogo che unisca i concetti (es. liste + classi).
 Il sabato e la domenica dedicati solo ai progetti pratici: il cervello assimila meglio creando qualcosa di concreto.
 
-💬 Frase motivazionale della settimana
 
-“Capire le funzioni ti insegna a ragionare,
-ma capire le classi ti insegna a costruire.”
 — Mauro Leonardo Potestio
