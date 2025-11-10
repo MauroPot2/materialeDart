@@ -26,10 +26,10 @@ Concetti chiave:
 
 💻 Esercizi
 
--[]Crea una funzione somma(a, b) che restituisce la somma dei due numeri.
--[]Crea una funzione calcolaArea(base, altezza) che restituisce l’area di un rettangolo.
--[]Scrivi una funzione stampaSaluto(nome) che stampa “Ciao [nome]!”.
--[]Implementa una funzione con parametri opzionali:
+-[x]Crea una funzione somma(a, b) che restituisce la somma dei due numeri.
+-[x]Crea una funzione calcolaArea(base, altezza) che restituisce l’area di un rettangolo.
+-[x]Scrivi una funzione stampaSaluto(nome) che stampa “Ciao [nome]!”.
+-[x]Implementa una funzione con parametri opzionali:
 
 void saluta(String nome, [String? cognome]) {
   if (cognome != null) {
