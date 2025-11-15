@@ -39,7 +39,7 @@ void saluta(String nome, [String? cognome]) {
   }
 }
 
--[]Crea una funzione con parametri con nome:
+-[x]Crea una funzione con parametri con nome:
 
 double media({required double a, required double b, required double c}) {
   return (a + b + c) / 3;
